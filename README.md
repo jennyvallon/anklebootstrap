@@ -13,6 +13,9 @@ I specialize in front end web development and look forward to working with an aw
 I'm located in the NYC Metro. 
 
 To contact me please email me at:
+
 jennyvallon@gmail.com
+
 Twitter: @jennyvallon
+
 Instagram: @jennyvallon
