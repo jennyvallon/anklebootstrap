@@ -14,8 +14,5 @@ I'm located in the NYC Metro.
 
 To contact me please email me at:
 jennyvallon@gmail.com
-
-Twitter: @jennyvallon<br>
+Twitter: @jennyvallon
 Instagram: @jennyvallon
-=======
-The easiest way to use half-size columns with Twitter Bootstrap
